@@ -15,8 +15,8 @@ surnameList = [
   "Fumagalli",
   "Verdi",
   "Grandi",
-  "Rossi",
   "Wolf",
+  "Rossi",
   "Brambilla",
   "Antani",
   userSurname
@@ -25,7 +25,7 @@ surnameList = [
 // Lista ordinata alfabeticamente
 surnameList.sort();
 
-// Stampo a chermo la lista ordinata alfabeticamente con ciclo FOR
+// Stampo a schermo la lista ordinata alfabeticamente con ciclo FOR
 for (var i = 0; i < surnameList.length; i++) {
 
   listTemp = elemento.innerHTML;
